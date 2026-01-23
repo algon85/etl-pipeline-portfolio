@@ -6,6 +6,11 @@ This project is what I submitted as a "Final Project" assignment to obtain my IB
 It implements an end-to-end  Python pipeline designed to extract real-world financial data, normalize currency values via automated transformation, and load structured results into a database (SQL) for production-level querying.
 ---
 
+## 🚀 How to Run this pipeline
+1. **Environment Setup:** Ensure Python is installed and run:
+```bash
+pip install requests beautifulsoup4 pandas numpy 
+
 ## 📌 Project Overview
 
 **Data Source**
@@ -91,10 +96,8 @@ All major pipeline steps and queries are logged with timestamps in `code_log.txt
 
 ---
 
-## 🚀 How to Run
 
-```bash
-pip install requests beautifulsoup4 pandas numpy
 python banks.py
+
 
 
