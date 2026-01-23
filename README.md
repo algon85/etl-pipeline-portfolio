@@ -11,7 +11,7 @@ It implements an end-to-end  Python pipeline designed to extract real-world fina
 1. **Environment Setup:** Ensure Python is installed and run:
 ```bash
 pip install requests beautifulsoup4 pandas numpy
-
+```
 2. **Dependencies:** Place the exchange_rate.csv file in the root directory.
 3. **Execution:** Run the script using:
 ```bash
@@ -102,6 +102,7 @@ All major pipeline steps and queries are logged with timestamps in `code_log.txt
 - Basic operational monitoring
 
 ---
+
 
 
 
