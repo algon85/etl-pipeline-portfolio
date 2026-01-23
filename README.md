@@ -1,3 +1,5 @@
+![Python](https://img.shields.io/badge/python-3.x-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
 # Automated ETL Pipeline: Global Bank Market Capitalization
 
 This project is what I submitted as a "Final Project" assignment to obtain my IBM Python Project for Data Engineering Certificate. 
@@ -97,3 +99,4 @@ All major pipeline steps and queries are logged with timestamps in `code_log.txt
 ```bash
 pip install requests beautifulsoup4 pandas numpy
 python banks.py
+
