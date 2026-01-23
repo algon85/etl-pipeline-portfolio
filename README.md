@@ -2,7 +2,7 @@
 ![License](https://img.shields.io/badge/license-MIT-green)
 # Automated ETL Pipeline: Global Bank Market Capitalization
 
-This project is what I submitted as a "Final Project" assignment to obtain my IBM Python Project for Data Engineering Certificate. 
+This project is what I submitted as a "Final Project" assignment to obtain my **IBM Python Project for Data Engineering Certificate**. 
 It implements an end-to-end  Python pipeline designed to extract real-world financial data, normalize currency values via automated transformation, and load structured results into a database (SQL) for production-level querying.
 - **IBM Data Engineering Professional Certificate**  
   https://www.coursera.org/account/accomplishments/verify/ZZL3P70D1V3I
@@ -101,6 +101,7 @@ All major pipeline steps and queries are logged with timestamps in `code_log.txt
 - Basic operational monitoring
 
 ---
+
 
 
 
