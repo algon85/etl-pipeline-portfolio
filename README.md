@@ -7,7 +7,7 @@ It implements an end-to-end  Python pipeline designed to extract real-world fina
 ---
 - **IBM Data Engineering Professional Certificate**  
   https://www.coursera.org/account/accomplishments/verify/ZZL3P70D1V3I
--
+---
 ## 🚀 How to Run this pipeline
 1. **Environment Setup:** Ensure Python is installed and run:
 ```bash
@@ -102,6 +102,7 @@ All major pipeline steps and queries are logged with timestamps in `code_log.txt
 - Basic operational monitoring
 
 ---
+
 
 
 
