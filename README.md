@@ -3,10 +3,7 @@
 # Automated ETL Pipeline: Global Bank Market Capitalization
 
 This project is what I submitted as a "Final Project" assignment to obtain my IBM Python Project for Data Engineering Certificate. 
-It implements an end-to-end **ETL (Extract, Transform, Load)** pipeline in Python that collects real-world financial data, enriches it with currency conversions, and loads it to both CSV and SQLite formats for downstream analysis.
-
-The pipeline is designed with **modularity, logging, and data integrity** in mind, simulating a lightweight production-style workflow.
-
+It implements an end-to-end  Python pipeline designed to extract real-world financial data, normalize currency values via automated transformation, and load structured results into a database (SQL) for production-level querying.
 ---
 
 ## 📌 Project Overview
@@ -99,4 +96,5 @@ All major pipeline steps and queries are logged with timestamps in `code_log.txt
 ```bash
 pip install requests beautifulsoup4 pandas numpy
 python banks.py
+
 
