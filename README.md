@@ -9,7 +9,12 @@ It implements an end-to-end  Python pipeline designed to extract real-world fina
 ## 🚀 How to Run this pipeline
 1. **Environment Setup:** Ensure Python is installed and run:
 ```bash
-pip install requests beautifulsoup4 pandas numpy 
+pip install requests beautifulsoup4 pandas numpy
+2. **Dependencies:** Place the exchange_rate.csv file in the root directory.
+3. **Execution:** Run the script using:
+```bash
+python banks.py
+4. **Validation:** Check code_log.txt for the execution log and Banks.db for the generated database. 
 
 ## 📌 Project Overview
 
@@ -96,8 +101,6 @@ All major pipeline steps and queries are logged with timestamps in `code_log.txt
 
 ---
 
-
-python banks.py
 
 
 
