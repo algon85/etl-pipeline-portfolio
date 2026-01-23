@@ -16,6 +16,7 @@ pip install requests beautifulsoup4 pandas numpy
 3. **Execution:** Run the script using:
 ```bash
 python banks.py
+```
 4. **Validation:** Check code_log.txt for the execution log and Banks.db for the generated database. 
 
 ## 📌 Project Overview
@@ -102,6 +103,7 @@ All major pipeline steps and queries are logged with timestamps in `code_log.txt
 - Basic operational monitoring
 
 ---
+
 
 
 
