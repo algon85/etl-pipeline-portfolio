@@ -1,0 +1,6 @@
+2025-04-23 22:44:35 : Preliminaries complete. Initiating ETL process
+2025-04-23 22:44:36 : Transformed data successfully saved to CSV.
+2025-04-23 22:44:36 : Transformed data successfully loaded to table 'Largest_banks' in the database.
+2025-04-23 22:44:36 : Executed query: SELECT * FROM Largest_banks
+2025-04-23 22:44:36 : Executed query: SELECT AVG(MC_GBP_Billion) FROM Largest_banks
+2025-04-23 22:44:36 : Executed query: SELECT Name from Largest_banks LIMIT 5
