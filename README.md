@@ -29,12 +29,36 @@ Example structure:
 etl-pipeline-portfolio/
 ├─ python-data-engineering/
 │ ├─ README.md
-│ ├─ src/
-│ ├─ data/
-│ └─ notebooks/
+│ ├─ banks.py
+│ ├─ exchange_rate.csv
+│ ├─ Largest_banks_data.csv
+│ ├─ Banks.db
+│ └─ code_log.txt
 ├─ future-project-1/
 │ └─ README.md
 └─ future-project-2/
   └─ README.md
 ```
+
+## Documentation Approach
+Project documentation is written to be **clear, structured, and reader-oriented**, with an emphasis on:
+- Explaining design decisions
+- Making assumptions explicit
+- Separating conceptual explanation from implementation details
+
+Where applicable, documentation follows the principles of the Diátaxis framework, which structures content for clarity into four types:
+
+- **Tutorials:** end-to-end learning workflows  
+- **How-Tos:** task-focused procedural guides  
+- **Explanations:** conceptual understanding  
+- **Reference:** facts and definitions
+
+If you’re new to this approach and want the reasoning behind this structure, see the canonical guide:  
+👉 [Diátaxis Framework](https://github.com/algon85/diataxis-framework/diataxis.md)
+
+
+## How to Use This Repository
+- Start with a project folder that interests you
+- Read the project’s `README.md` for context, goals, and architecture
+- Review the code and supporting materials for implementation details
 
