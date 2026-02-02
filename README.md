@@ -54,7 +54,7 @@ Where applicable, documentation follows the principles of the Diátaxis framewor
 - **Reference:** facts and definitions
 
 If you’re new to this approach and want the reasoning behind this structure, see the canonical guide:  
-👉 [Diátaxis Framework](https://github.com/algon85/diataxis-framework/diataxis.md)
+👉 [Diátaxis Framework](https://github.com/algon85/diataxis-framework/blob/main/diataxis.md)
 
 
 ## How to Use This Repository
